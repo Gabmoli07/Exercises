@@ -1,0 +1,10 @@
+C:\Users\gabrielrodriguez\Documents\Visual Studio 2015\Projects\Switch\Switch\bin\Debug\Switch.exe.config
+U:\Switch\Switch\bin\Debug\Switch.exe.config
+U:\Switch\Switch\obj\Debug\Switch.csprojResolveAssemblyReference.cache
+U:\Switch\Switch\obj\Debug\Switch.Form1.resources
+U:\Switch\Switch\obj\Debug\Switch.Properties.Resources.resources
+U:\Switch\Switch\obj\Debug\Switch.csproj.GenerateResource.Cache
+U:\Switch\Switch\bin\Debug\Switch.exe
+U:\Switch\Switch\bin\Debug\Switch.pdb
+U:\Switch\Switch\obj\Debug\Switch.exe
+U:\Switch\Switch\obj\Debug\Switch.pdb

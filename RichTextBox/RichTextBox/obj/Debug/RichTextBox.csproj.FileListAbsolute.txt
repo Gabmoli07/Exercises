@@ -1,0 +1,10 @@
+U:\Languages\RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe.config
+U:\Languages\RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe
+U:\Languages\RichTextBox\RichTextBox\bin\Debug\RichTextBox.pdb
+U:\Languages\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csprojResolveAssemblyReference.cache
+U:\Languages\RichTextBox\RichTextBox\obj\Debug\RichTextBox.Properties.Resources.resources
+U:\Languages\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.GenerateResource.Cache
+U:\Languages\RichTextBox\RichTextBox\obj\Debug\RichTextBox.exe
+U:\Languages\RichTextBox\RichTextBox\obj\Debug\RichTextBox.pdb
+U:\Languages\RichTextBox\RichTextBox\obj\Debug\RichTextBox.Form1.resources
+U:\Languages\RichTextBox\RichTextBox\obj\Debug\RichTextBox.Welcome.resources

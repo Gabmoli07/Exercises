@@ -1,0 +1,9 @@
+U:\Languages\StreamReaderProject\StreamReaderProject\bin\Debug\StreamReaderProject.exe.config
+U:\Languages\StreamReaderProject\StreamReaderProject\obj\Debug\StreamReaderProject.csprojResolveAssemblyReference.cache
+U:\Languages\StreamReaderProject\StreamReaderProject\obj\Debug\StreamReaderProject.Form1.resources
+U:\Languages\StreamReaderProject\StreamReaderProject\obj\Debug\StreamReaderProject.Properties.Resources.resources
+U:\Languages\StreamReaderProject\StreamReaderProject\obj\Debug\StreamReaderProject.csproj.GenerateResource.Cache
+U:\Languages\StreamReaderProject\StreamReaderProject\bin\Debug\StreamReaderProject.exe
+U:\Languages\StreamReaderProject\StreamReaderProject\bin\Debug\StreamReaderProject.pdb
+U:\Languages\StreamReaderProject\StreamReaderProject\obj\Debug\StreamReaderProject.exe
+U:\Languages\StreamReaderProject\StreamReaderProject\obj\Debug\StreamReaderProject.pdb

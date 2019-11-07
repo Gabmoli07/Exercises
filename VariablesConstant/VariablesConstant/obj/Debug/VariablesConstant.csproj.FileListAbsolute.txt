@@ -1,0 +1,9 @@
+U:\VariablesConstant\VariablesConstant\bin\Debug\VariablesConstant.exe.config
+U:\VariablesConstant\VariablesConstant\bin\Debug\VariablesConstant.exe
+U:\VariablesConstant\VariablesConstant\bin\Debug\VariablesConstant.pdb
+U:\VariablesConstant\VariablesConstant\obj\Debug\VariablesConstant.csprojResolveAssemblyReference.cache
+U:\VariablesConstant\VariablesConstant\obj\Debug\VariablesConstant.Form1.resources
+U:\VariablesConstant\VariablesConstant\obj\Debug\VariablesConstant.Properties.Resources.resources
+U:\VariablesConstant\VariablesConstant\obj\Debug\VariablesConstant.csproj.GenerateResource.Cache
+U:\VariablesConstant\VariablesConstant\obj\Debug\VariablesConstant.exe
+U:\VariablesConstant\VariablesConstant\obj\Debug\VariablesConstant.pdb

@@ -1,0 +1,9 @@
+U:\Operator\Operator\bin\Debug\Operator.exe.config
+U:\Operator\Operator\bin\Debug\Operator.exe
+U:\Operator\Operator\bin\Debug\Operator.pdb
+U:\Operator\Operator\obj\Debug\Operator.csprojResolveAssemblyReference.cache
+U:\Operator\Operator\obj\Debug\Operator.Form1.resources
+U:\Operator\Operator\obj\Debug\Operator.Properties.Resources.resources
+U:\Operator\Operator\obj\Debug\Operator.csproj.GenerateResource.Cache
+U:\Operator\Operator\obj\Debug\Operator.exe
+U:\Operator\Operator\obj\Debug\Operator.pdb

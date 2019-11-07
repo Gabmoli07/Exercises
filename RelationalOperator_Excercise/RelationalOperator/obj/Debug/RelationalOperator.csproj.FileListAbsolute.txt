@@ -1,0 +1,9 @@
+U:\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.exe.config
+U:\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.exe
+U:\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.pdb
+U:\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.csprojResolveAssemblyReference.cache
+U:\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.Form1.resources
+U:\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.Properties.Resources.resources
+U:\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.csproj.GenerateResource.Cache
+U:\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.exe
+U:\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.pdb

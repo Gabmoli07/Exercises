@@ -1,0 +1,9 @@
+U:\Languages\Enumated\Enumated\bin\Debug\Enumated.exe.config
+U:\Languages\Enumated\Enumated\bin\Debug\Enumated.exe
+U:\Languages\Enumated\Enumated\bin\Debug\Enumated.pdb
+U:\Languages\Enumated\Enumated\obj\Debug\Enumated.csprojResolveAssemblyReference.cache
+U:\Languages\Enumated\Enumated\obj\Debug\Enumated.Form1.resources
+U:\Languages\Enumated\Enumated\obj\Debug\Enumated.Properties.Resources.resources
+U:\Languages\Enumated\Enumated\obj\Debug\Enumated.csproj.GenerateResource.Cache
+U:\Languages\Enumated\Enumated\obj\Debug\Enumated.exe
+U:\Languages\Enumated\Enumated\obj\Debug\Enumated.pdb

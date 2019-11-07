@@ -1,0 +1,9 @@
+U:\Languages\List\List\bin\Debug\List.exe.config
+U:\Languages\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+U:\Languages\List\List\obj\Debug\List.Form1.resources
+U:\Languages\List\List\obj\Debug\List.Properties.Resources.resources
+U:\Languages\List\List\obj\Debug\List.csproj.GenerateResource.Cache
+U:\Languages\List\List\bin\Debug\List.exe
+U:\Languages\List\List\bin\Debug\List.pdb
+U:\Languages\List\List\obj\Debug\List.exe
+U:\Languages\List\List\obj\Debug\List.pdb

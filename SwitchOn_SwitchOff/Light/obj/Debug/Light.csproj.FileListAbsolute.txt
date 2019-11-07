@@ -1,0 +1,9 @@
+U:\Objet-Orient 2018\Light\Light\bin\Debug\Light.exe.config
+U:\Objet-Orient 2018\Light\Light\obj\Debug\Light.csprojResolveAssemblyReference.cache
+U:\Objet-Orient 2018\Light\Light\obj\Debug\Light.Form1.resources
+U:\Objet-Orient 2018\Light\Light\obj\Debug\Light.Properties.Resources.resources
+U:\Objet-Orient 2018\Light\Light\obj\Debug\Light.csproj.GenerateResource.Cache
+U:\Objet-Orient 2018\Light\Light\bin\Debug\Light.exe
+U:\Objet-Orient 2018\Light\Light\bin\Debug\Light.pdb
+U:\Objet-Orient 2018\Light\Light\obj\Debug\Light.exe
+U:\Objet-Orient 2018\Light\Light\obj\Debug\Light.pdb

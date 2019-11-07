@@ -1,0 +1,9 @@
+U:\Languages\Array\Array\bin\Debug\Array.exe.config
+U:\Languages\Array\Array\bin\Debug\Array.exe
+U:\Languages\Array\Array\bin\Debug\Array.pdb
+U:\Languages\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+U:\Languages\Array\Array\obj\Debug\Array.Form1.resources
+U:\Languages\Array\Array\obj\Debug\Array.Properties.Resources.resources
+U:\Languages\Array\Array\obj\Debug\Array.csproj.GenerateResource.Cache
+U:\Languages\Array\Array\obj\Debug\Array.exe
+U:\Languages\Array\Array\obj\Debug\Array.pdb

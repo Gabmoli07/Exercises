@@ -1,0 +1,9 @@
+U:\Languages\Queue\Queue\bin\Debug\Queue.exe.config
+U:\Languages\Queue\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+U:\Languages\Queue\Queue\obj\Debug\Queue.Form1.resources
+U:\Languages\Queue\Queue\obj\Debug\Queue.Properties.Resources.resources
+U:\Languages\Queue\Queue\obj\Debug\Queue.csproj.GenerateResource.Cache
+U:\Languages\Queue\Queue\bin\Debug\Queue.exe
+U:\Languages\Queue\Queue\bin\Debug\Queue.pdb
+U:\Languages\Queue\Queue\obj\Debug\Queue.exe
+U:\Languages\Queue\Queue\obj\Debug\Queue.pdb
